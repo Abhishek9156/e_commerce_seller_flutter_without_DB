@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812745870614",
+    "project_id": "flutter-emart-adb2f",
+    "storage_bucket": "flutter-emart-adb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812745870614:android:875c4e0c65a71a61e95437",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFRifBVCtQZf53KkKgvGgcvvDwPsCp9jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812745870614:android:ba8cb608c82b1e0ce95437",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFRifBVCtQZf53KkKgvGgcvvDwPsCp9jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
